@@ -13,8 +13,8 @@ Sales at Square by day (ex-Oracle, ex-PayPal), shipping products at the intersec
 
 | | | |
 |---|---|---|
-| **BRAIN \| RANK** | Neural A/B testing for content creators. Predicts second-by-second brain activation from video, images, and text with Meta's TRIBE v2, on a 3D cortex. | [Code](https://github.com/deeg9/NeuroCut) · [Case study](https://diegofill.com/projects/brain-rank) |
+| **BRAIN \| RANK** | Neural A/B testing for content creators. Predicts second-by-second brain activation from video, images, and text with Meta's TRIBE v2, on a 3D cortex. | [Code](https://github.com/deeg9/brain-rank) · [Case study](https://diegofill.com/projects/brain-rank) |
 | **ViralSlideMaker** | AI carousel maker for Instagram and TikTok, with an editor, style-from-reference, and an API + MCP server for agents. | [Code](https://github.com/deeg9/ViralSlideMaker) · [Case study](https://diegofill.com/projects/viralslidemaker) |
-| **StackMatch** | RFP marketplace for B2B software: post one AI-written RFP, get competing vendor proposals. | [Case study](https://diegofill.com/projects/stackmatch) |
-| **Notevra** | Turns a few words about someone you love into an AI-written, AI-composed song. | [Code](https://github.com/deeg9/MusicGenerator) · [Case study](https://diegofill.com/projects/notevra) |
+| **StackMatch** | RFP marketplace for B2B software: post one AI-written RFP, get competing vendor proposals. | [Code](https://github.com/deeg9/StackMatch) · [Case study](https://diegofill.com/projects/stackmatch) |
+| **Notevra** | Turns a few words about someone you love into an AI-written, AI-composed song. | [Code](https://github.com/deeg9/notevra) · [Case study](https://diegofill.com/projects/notevra) |
 | **SharedKitchen** | Collaborative meal planning, grocery lists, and budgets for households (Expo app). | [Code](https://github.com/deeg9/SharedKitchen) · [Case study](https://diegofill.com/projects/sharedkitchen) |
